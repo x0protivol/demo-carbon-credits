@@ -1,4 +1,4 @@
-/* config-overrides.js */
+ /* config-overrides.js */
 const { zeppelinSolidityHotLoader } = require('./config/webpack');
 
 module.exports = function override(config, env) {
